@@ -1,0 +1,3 @@
+# script simple pour convertir du texte en HTML.
+# D'abord, éliminer tous les caractères de saut de ligne, de sorte que l'ajout
+# ne se produise qu'une fois, puis remplacer les sauts de ligne.

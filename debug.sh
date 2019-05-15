@@ -1,7 +1,7 @@
 #! /bin/bash
 #set -v
 #set -x
-# starce -v
+strace -v
 _DEBUG="on"
 function DEBUG ()
 {
